@@ -1,0 +1,19 @@
+ <!DOCTYPE html>
+<html>
+<body>
+
+ <img src="https://banner2.kisspng.com/20180402/ydq/kisspng-bob-the-builder-castle-builders-board-game-drawing-builder-5ac217c2cdb204.7089924315226695068425.jpg" style="width:200px;height:200px;"> <h1>BELGRANO</h1>
+<p>Es una banda de chicos de buena familia.</p>
+
+<h1>Cosas que nos gusta hacer</h1>
+<ol>
+    <li>
+        <a href="/home/tpi/Escritorio/Html Redes/Entrega de insumos">Envio de Insumos</a>
+        </li>
+    <li>
+        <a href="url">Consultas Agropecuarias</a>
+        </li>
+  </ol> 
+
+</body>
+</html> 
