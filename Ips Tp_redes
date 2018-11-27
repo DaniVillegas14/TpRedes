@@ -1,23 +1,102 @@
-DNS Local Resolver - 66
+Router Cordoba
 
-Servidor de DHCP - 69
+fa 0/0 192.168.145.126
 
-Insumos - 110
+fa 4/0 192.168.145.50 (Mini red2)
 
-Depto de Prensa - 111
+fa 5/0 192.168.145.53 (Mini red3)
 
-Depto de Prensa seguro - 112
 
-Servidor de DHCP - 70 a 103 - 
+Router Mendoza
 
-servideores piso 2 - 104-109
+fa 0/0 192.168.145.1
 
-Servidor Correo - 113
+fa 5/0 192.168.145.54  (Mini red3)
 
-Servidor web Seguro - 114
+fa 4/0 192.168.145.58  (Mini red1)
 
-pc administrativo 120-123
 
-DNS 115-118
+Router Bs As
+
+fa 2/0 205.32.130.2
+
+fa 4/0 192.168.145.49 (Mini red2)
+
+fa 5/0 192.168.145.57 (Mini red1)
+
+
+BUENOS AIRES
+
+DNS Local Resolver - 172.29.1.213
+
+Dhcp Administracion - 172.29.2.194
+
+Dhcp Gerencia - 172.29.2.2
+
+Dhcp Sistemas - 172.29.1.2
+
+Dhcp Logistica - 172.29.2.130
+
+DNS Prensa1 - 172.29.1.209
+
+DNS Prensa2 - 172.29.1.210
+
+DNS Sistemas1 - 172.29.1.211
+
+DNS Sistemas2 - 172.29.1.212
+
+Depto de Prensa - 172.29.1.204
+
+Depto de Prensa seguro - 172.29.1.205
+
+Servidor Correo - 172.29.1.207
+
+Servidor web Seguro - 172.29.1.208
+
+servidor Web principal - 172.29.1.206
+
+
+CORDOBA
+
+Servidor de DHCP - 192.168.145.69
+
+pcs administrativo Autoriazadas por Firewall
+
+PC autoizada 1 - 192.168.145.120
+
+PC autoizada 2 - 192.168.145.121
+
+PC autoizada 3 - 192.168.145.122
+
+PC autoizada 4 - 192.168.145.123
 
 IP Telefono e impresora 67 - 68
+
+
+MENDOZA
+
+Servidor DHCP - 192.168.145.26
+
+Server2 - 192.168.145.27
+
+Server3 - 192.168.145.28
+
+Server4 - 192.168.145.29
+
+
+IPS PUBLICAS -- Rangos asignados
+
+Centro de datos = 200.23.11.7 -- 200.23.11.30
+
+Gerencia = 200.23.11.31 -- 200.23.11.63
+
+ADministracion = 200.23.11.64 -- 200.23.11.92
+
+Logistica = 200.23.11.93 -- 200.23.11.126
+
+Codoba = 200.23.11.129 -- 200.23.11.150
+
+Mendoza = 200.23.11.151 -- 200.23.11.172  
+
+
+
